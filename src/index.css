@@ -1,0 +1,25 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+
+}
+
+.flexx{
+      display: flex;
+}
+.content{
+      width: 100%;
+}
+.sidebar{
+      height: 100vh;
+}
+.post-card{
+      margin: 1rem 4rem;
+}
+.hastag{
+      margin: 0.3rem;
+}
+.create-post{
+      margin: 2rem;
+}
